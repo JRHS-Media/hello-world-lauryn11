@@ -16,3 +16,30 @@ p {
     width: 100%;
 
 }
+
+.logo {
+    width: 100px;
+    height: 100px;
+    align-self: flex-start;
+
+}
+
+.nav {
+    width: 500px;
+    height: 100px;
+    align-self: flex-end;
+
+}
+
+.content {
+    width: 80vw;
+    height: 100vh;
+    background-color: palevioletred;
+
+}
+
+.footer {
+    width: 100vw;
+    height: 100px;
+
+}
