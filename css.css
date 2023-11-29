@@ -22,6 +22,7 @@ p {
     height: 100px;
     align-self: flex-start;
 
+
 }
 
 .nav {
@@ -44,5 +45,9 @@ p {
     height: 100px;
 
 }
+
+.container {
+    flex-direction: row | row-reverse | column | column-reverse;
+    }
 
 
